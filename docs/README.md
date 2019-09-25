@@ -1,4 +1,4 @@
-# tradetracker
+# Tradetracker
 
 VTEX Tradetracker first-party app
 
